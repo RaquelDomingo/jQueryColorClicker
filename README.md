@@ -1,1 +1,2 @@
-![2 color clicker](https://user-images.githubusercontent.com/29441324/31846413-1c80cb6a-b5c0-11e7-960a-a8b26aa0ef8c.png)
+![screen shot 2017-10-20 at 5 56 59 pm](https://user-images.githubusercontent.com/29441324/31846415-2c597fe6-b5c0-11e7-8705-90f7059ba5be.png)
+
